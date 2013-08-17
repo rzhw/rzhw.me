@@ -1,0 +1,17 @@
+---
+layout: default
+title: rzhw
+---
+
+<div id="tagline">
+    I'm a student and occasional creator of stuff.
+</div>
+
+<ul id="posts-list">
+{% for post in site.posts offset: 0 limit: 5 %}{% if post.archived != true %}
+    <li class="post">
+        <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.date | date: "<time datetime='%Y-%m-%d'>%B %d %Y</time>" }}
+    </li>
+{% endif %}{% endfor %}
+</ul>

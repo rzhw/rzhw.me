@@ -1,0 +1,73 @@
+@import "normalize.css";
+@import "../fonts/stylesheet.css";
+
+body {
+    margin: 40px 0 80px;
+    font-family: "open sans", "helvetica neue", arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+p {
+    line-height: 28px;
+}
+
+a:link, a:visited {
+    color: #62a9e0;
+    text-decoration: none;
+    transition: .2s all;
+}
+a:hover {
+    color: #2a8ad4;
+}
+
+h1, h2, h3 {
+    font-weight: 300;
+}
+h1 a:link, h2 a:link, h3 a:link {
+    color: #333;
+}
+h1 a:hover, h2 a:hover, h3 a:hover {
+    color: #1f659b;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 800px;
+}
+
+#logo {
+    margin: 20px 0;
+}
+#logo a {
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+#tagline {
+    margin: -15px 0 35px;
+    font-size: 14px;
+}
+#tagline a:link, #tagline a:visited {
+    color: #666;
+}
+
+#posts-list {
+    padding: 0;
+    list-style: none;
+}
+#posts-list .post {
+    margin: 10px 0;
+}
+#posts-list .post time {
+    margin-top: 2px;
+    float: right;
+}
+
+#posts-list .post time,
+article.post time {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #aaa;
+}
