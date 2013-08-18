@@ -1,5 +1,6 @@
 @import "normalize.css";
 @import "../fonts/stylesheet.css";
+@import "code.css";
 
 body {
     margin: 40px 0 80px;
@@ -29,6 +30,22 @@ h1 a:link, h2 a:link, h3 a:link {
 }
 h1 a:hover, h2 a:hover, h3 a:hover {
     color: #1f659b;
+}
+
+code, .highlight {
+    padding: 2px 4px;
+    font-size: 13px;
+    font-family: consolas, monaco, monospace;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    vertical-align: middle;
+}
+.highlight {
+    padding: 0 12px;
+}
+.highlight code {
+    padding: 0;
+    border: none;
 }
 
 .wrap {
