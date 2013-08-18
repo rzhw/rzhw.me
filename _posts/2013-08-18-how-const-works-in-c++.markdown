@@ -3,7 +3,7 @@ layout: post
 title: How const works in C++, from a beginner's perspective
 ---
 
-Coming from languages like C, C# and Java where `const` is strictly something that comes before a type when defining a variable,
+Coming from languages like C# and Java where `const` is strictly something that comes before a type when defining a variable,
 it's been a bit odd to try to wrap my head around it. Here I'll try and jot down a few things to note.
 I'll assume you definitely know the basics of variables, and know at least a bit about C pointers.
 
