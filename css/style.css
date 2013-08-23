@@ -54,6 +54,9 @@ code, .highlight {
     margin: 0 auto;
     width: 800px;
 }
+.wrap img {
+    max-width: 800px;
+}
 
 #logo {
     margin: 20px 0;
