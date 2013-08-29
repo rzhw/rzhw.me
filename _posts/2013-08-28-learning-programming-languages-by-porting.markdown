@@ -37,7 +37,5 @@ but the extra knowledge doesn't hurt, right?
 You don't have to choose two languages that you both don't know very well; one works just fine too.
 I've attempted some simple porting before where I was already familiar with one language, and it still helped a lot.
 
-So give it a go some time if you're interested in figuring out a language.
-If you can find something simple, port it, looking up docs all the time while you're at it.
-
-Sure beats an hour of reading and hoping you've absorbed something.
+So if you're interested in figuring out a language, and can find something simple to port, give it a shot.
+It's definitely one of the more fun ways to learn. Beats an hour of reading and hoping you've absorbed something.
