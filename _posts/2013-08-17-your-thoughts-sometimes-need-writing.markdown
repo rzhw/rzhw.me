@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your thoughts need writing
+title: Your thoughts sometimes need writing
 ---
 
 Over the past years, a bright eyed hopeful me increased my web presence a bit,
@@ -12,7 +12,7 @@ or various other hobbies to whittle away at my time.
 
 Meanwhile, I've always been an avid reader of sites like Hacker News and /r/programming,
 and the thought occasionally bubbles in my head about whether I should give blogging a better go.
-*B-b-b-but,* the voice inside quivers, *I don't even know what to blog about! And everyone else is so good at it!*
+*But,* the voice inside quivers, *I don't even know what to blog about! And everyone else is so good at it!*
 
 Surely I'm not the only one who feels this way. So, what?
 
@@ -32,20 +32,21 @@ Without worrying about how to write it, who it'd read by, organising it, or anyt
 And hey, I'm not a master writer. I did horrifically in high school English.
 But in what felt like little time, a paragraph or two would be done.
 
-Every day I worked on something, went out, or just flat out procrastinated, I'd essentially repeat the process.
+Every few days I worked on something, went out, or just flat out procrastinated, I'd essentially repeat the process.
 
 What came out was pretty much just regular messy brainfarts, but reading through them, and seeing
 things I've learned, incredibly hacky workarounds, feelings of success --
 there's a great sense of accomplishment in seeing all of them.
 
-And that's lead to thoughts about actually getting back into sharing thoughts with the world.
-I'd hope they'd be amusing at the very least, and maybe even prod some brains, help at least someone out there learn something new,
-while I'm at it.
-
-If you're not much of a blogger, maybe just give that method above a simple try.
-At the end of the day, open some text editor, write the date, and just let some thoughts flow. They don't have to be coherent, cohesive, whatever --
+If you're not much of a blogger (I mean, I'm not), you could give that method a simple try.
+Every week or so, open some text editor, write the date, and just let some thoughts flow. They don't have to be coherent, cohesive, whatever --
 even write in txtspeak, 13375p34k or pig latin if you want --
 as long as you're honest with yourself about what you've done, what you've achieved, and what you absolutely, completely, utterly, royally screwed up.
 
-Even if you don't decide to try and take some thoughts along to the world outside, at least you can look back at what you've done.
-Like a journal. Actually, that is a journal.
+You don't need to take the words along to the world outside.
+Obviously not everything you do all the time is worth sharing,
+otherwise scrolling through MyFaceWitterIneStagramPlus would be the most utterly mundane activity in the world.
+
+But sometimes, at least you can look back at what you've done. Like a journal. Actually, that is a journal.
+
+*This entry was modified on 2013/09/18 as a postmortem of sorts.*
