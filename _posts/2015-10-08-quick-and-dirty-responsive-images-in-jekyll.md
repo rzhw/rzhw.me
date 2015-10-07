@@ -15,6 +15,8 @@ Luckily, looks like good progress has been happening with responsive image suppo
 
 Except, you know, saving time is good, and having more markup and less content in your Markdown posts doesn't look nice. What to do? A quick search for Jekyll srcset brings me to the aptly named `jekyll-srcset`, which gets used like this:
 
+{% raw %}
+
     {% image_tag src="/image.png" width="100" %}
 
 And generates something like this:
@@ -32,6 +34,8 @@ Here's my include, which I've dropped in as `_includes/retinaimg.html`:
 And used like so:
 
     {% include retinaimg.html src="/blog/images/daisomangoes.png" alt="Picture of Daiso dried mangoes" %}
+
+{% endraw %}
 
 Not bad for a quick hack, nicer to type out than the full thing when I use high-res images more, and while not as nice to look at as the `![]()` syntax, it's certainly a good thing to keep data usage lower these days when we've all got these phones with data caps[^mobilefirst].
 
