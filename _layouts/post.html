@@ -3,12 +3,19 @@ layout: default
 comments: true
 ---
 
+{% comment %} Props to Carlos Becker: http://carlosbecker.com/posts/jekyll-reading-time-without-plugins/ {% endcomment %}
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+
 <article class="post">
     <footer class="meta">
         <div class="posted">
             {{ page.date | date: "<time datetime='%Y-%m-%d'>%B %d %Y</time>" }}
         </div>
-        
+        <div class="reading-time">{{ minutes }} minute read</div>
+
         {% if page.tags != empty %}
             Tagged:
             {% for tag in page.tags %}

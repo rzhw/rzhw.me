@@ -89,8 +89,15 @@ code, .highlight {
 }
 
 #posts-list .post time,
-article.post time {
+article.post .meta {
     font-size: 14px;
-    text-transform: uppercase;
     color: #aaa;
+}
+#posts-list .post time,
+article.post time {
+    text-transform: uppercase;
+}
+article.post .reading-time {
+    font-size: small;
+    font-style: italic;
 }
