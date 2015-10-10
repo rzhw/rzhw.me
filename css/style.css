@@ -53,10 +53,11 @@ code, .highlight {
 
 .wrap {
     margin: 0 auto;
-    width: 800px;
+    padding: 0 20px;
+    max-width: 800px;
 }
 .wrap img {
-    max-width: 800px;
+    max-width: 100%;
 }
 
 #logo {
