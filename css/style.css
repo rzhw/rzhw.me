@@ -101,3 +101,14 @@ article.post .reading-time {
     font-size: small;
     font-style: italic;
 }
+
+article.post .footnotes {
+    margin-top: 40px;
+    padding-top: 10px;
+    border-top: 1px solid #aaa;
+    font-size: small;
+    color: #777;
+}
+article.post .footnotes p {
+    line-height: 24px;
+}
