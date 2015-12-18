@@ -1,5 +1,5 @@
 /**
- * Website v23.3
+ * Website v23.4
  */
 
 @import "normalize.css";
@@ -69,6 +69,17 @@ code, .highlight {
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
+}
+
+#footer {
+    margin: 60px 0;
+    color: #aaa;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#footer a:link, #footer a:visited {
+    color: #888;
 }
 
 #tagline {
